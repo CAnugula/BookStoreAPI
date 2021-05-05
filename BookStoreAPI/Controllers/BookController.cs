@@ -33,7 +33,7 @@ namespace BookStoreAPI.Controllers
             }
             else
             {
-                // Log the error
+                // Log the error using log4net
                 return NotFound();
             }
         }
