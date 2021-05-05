@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vwo+b5e8Wv0yydkalJw5v0vWnQlMMBYYO8iCkxXEQh8CWoIVtRspnCG/+ie94cZNdTfnrgGP89wjmXhhGWoH6A==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\c#\\BookStoreAPI\\BookStoreAPITests\\BookStoreAPITests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\biggy\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\biggy\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\biggy\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\biggy\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

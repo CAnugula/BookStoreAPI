@@ -1,0 +1,15 @@
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\bin\Debug\net472\NUnit3.TestAdapter.dll
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\bin\Debug\net472\NUnit3.TestAdapter.pdb
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\bin\Debug\net472\nunit.engine.dll
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\bin\Debug\net472\nunit.engine.api.dll
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\bin\Debug\net472\BookStoreAPITests.dll
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\bin\Debug\net472\BookStoreAPITests.pdb
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\bin\Debug\net472\nunit.framework.dll
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\obj\Debug\net472\BookStoreAPITests.csprojAssemblyReference.cache
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\obj\Debug\net472\BookStoreAPITests.AssemblyInfoInputs.cache
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\obj\Debug\net472\BookStoreAPITests.AssemblyInfo.cs
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\obj\Debug\net472\BookStoreAPITests.csproj.CoreCompileInputs.cache
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\obj\Debug\net472\BookStoreAPITests.csproj.CopyComplete
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\obj\Debug\net472\BookStoreAPITests.dll
+D:\dev\c#\BookStoreAPI\BookStoreAPITests\obj\Debug\net472\BookStoreAPITests.pdb
